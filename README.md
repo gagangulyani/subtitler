@@ -1,3 +1,6 @@
-# subtitler --- a simple script to dowload subtitle from subdb
+# subtitler
+a simple script to dowload subtitle from subdb
 
-``` usage: python subtitler.py <filename>
+```
+usage: python subtitler.py <filename>
+```
