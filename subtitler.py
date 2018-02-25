@@ -31,7 +31,7 @@ def request_sub(md5):
 
 def save_sub(data, filename):
     s_filename = filename[:-4] + ".srt"
-    with open(s_filename, "w+") as s_f:
+    with open(s_filename, "wb") as s_f:
         s_f.write(data)
 
 
